@@ -1,0 +1,6 @@
+bnr.sh
+frontendBuild/*
+frontend/node_modules/*
+backend/node_modules/*
+backend/logs/*
+backend/schema.sql
