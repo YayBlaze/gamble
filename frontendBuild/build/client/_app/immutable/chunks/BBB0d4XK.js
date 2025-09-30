@@ -1,0 +1,1 @@
+import{a4 as a}from"./Gy7_sNZd.js";a();

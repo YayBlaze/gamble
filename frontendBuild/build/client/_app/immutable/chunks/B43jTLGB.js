@@ -1,0 +1,1 @@
+import{a1 as a}from"./DaofkxM2.js";a();
